@@ -5,7 +5,7 @@ import 'react-circular-progressbar/dist/styles.css'
 import useSound from 'use-sound'
 import startSfx from '../../sounds/startTimer.mp3'
 import pauseSfx from '../../sounds/pauseTimer.mp3'
-
+  
 const TimerDisplay = ({ timerMode,
                         percentage,
                         timeLeft,
